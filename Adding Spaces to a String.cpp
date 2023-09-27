@@ -10,7 +10,7 @@ public:
             {
                 ans+=" ";
                 ans+=s[i];
-                k++;
+                k++;    //inc
             }
             else
             {
