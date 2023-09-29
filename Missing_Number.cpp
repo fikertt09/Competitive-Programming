@@ -4,7 +4,7 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int allXOR = 0;
-        // XOR all numbers in range [0, n]
+        // XOR all numbers in the range [0, n]
         for (int i = 0; i <= nums.size(); i++) {
             allXOR = allXOR ^ i;
         }
