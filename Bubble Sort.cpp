@@ -50,7 +50,7 @@ int main(){
         break;
     }}
     cout<<"Array is sorted in "<<c<<" swaps."<<endl;
-    cout<<"First Element:"<<" "<<a[0]<<endl;
-    cout<<"Last Element:"<<" "<<a[n-1]<<endl;
+    cout<<"First Element is:"<<" "<<a[0]<<endl;
+    cout<<"Last Element is:"<<" "<<a[n-1]<<endl;
     return 0;
 }
