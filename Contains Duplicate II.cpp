@@ -1,4 +1,5 @@
 /*bubble sort*/
+/*Contains duplicate*/
 class Solution {
  public:
   bool containsNearbyDuplicate(vector<int>& nums, int k) {
