@@ -1,6 +1,6 @@
  class Solution {
 public:
-    string addSpaces(string s, vector<int>& spaces) 
+     string addSpaces(string s, vector<int>& spaces) 
     {
         string ans="";
         int k=0;
