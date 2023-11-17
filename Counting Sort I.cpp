@@ -8,7 +8,7 @@
 using namespace std;
 
  int main() {
-	int n, val;
+	 int n, val;
 	int A[100];
 	for (int i = 0; i < 100; i++) {
 		A[i] = 0;
